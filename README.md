@@ -1,1 +1,2 @@
 # Home_Automation
+Full Home Automation system using the Nodemcu board and the New Blynk app. This system includes Temperature and Humidity monitoring system, GAS level monitoring system, Security system, water level monitoring system, and home appliances controlling system. For that, I used the DHT11 sensor, PIR sensor, MQ2 sensor, Ultrasonic sensor, and 2 channel relay module. Also, we can monitor these data on the LCD display, smartphone, or computer. For that, I used the Blynk new 
